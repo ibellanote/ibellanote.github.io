@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bike Shaing Project"
+title: "Bike Sharing Project"
 ---
 
 # Welcome
